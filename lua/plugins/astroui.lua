@@ -10,5 +10,16 @@ return {
   opts = {
     -- change colorscheme
     colorscheme = "catppuccin",
+    status = {
+      separators = {
+        none = { "", "" },
+        left = { "", "  " },
+        right = { "  ", "" },
+        center = { "  ", "  " },
+        tab = { "", " " },
+        breadcrumbs = " > ",
+        path = " > ",
+      },
+    },
   },
 }
