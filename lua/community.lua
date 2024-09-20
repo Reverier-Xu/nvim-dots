@@ -17,6 +17,5 @@ return {
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.xml" },
   { import = "astrocommunity.pack.cmake" },
-  { import = "astrocommunity.split-and-window.edgy-nvim" },
   -- import/override with your plugins folder
 }
