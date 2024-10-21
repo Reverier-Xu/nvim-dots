@@ -13,6 +13,8 @@ return {
         "ts_ls",
         "tailwindcss",
         -- add more arguments for adding more language servers
+        --
+        -- NOTE: prefer add language tools in `../community.lua` by community packs
       },
     },
   },
