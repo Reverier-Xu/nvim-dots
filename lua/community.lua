@@ -9,6 +9,7 @@ return {
   { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.git.git-blame-nvim" },
   { import = "astrocommunity.split-and-window.neominimap-nvim" },
+  { import = "astrocommunity.search.nvim-spectre" },
   { import = "astrocommunity.pack.python-ruff" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.lua" },
