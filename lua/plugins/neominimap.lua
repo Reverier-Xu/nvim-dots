@@ -4,7 +4,6 @@ return {
     "Isrothy/neominimap.nvim",
     init = function()
       vim.opt.wrap = false
-      vim.opt.sidescrolloff = 36
       ---@type Neominimap.UserConfig
       vim.g.neominimap = {
         float = {
