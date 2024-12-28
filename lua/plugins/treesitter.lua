@@ -52,6 +52,7 @@ return {
       "objdump",
       "passwd",
       "regex",
+      "slint",
       "ssh_config",
       -- add more arguments for adding more treesitter parsers
     },
