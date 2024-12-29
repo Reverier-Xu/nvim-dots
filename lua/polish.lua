@@ -7,6 +7,7 @@ vim.filetype.add {
   extension = {
     -- foo = "fooscript",
     qrc = "xml",
+    slint = "slint",
   },
   filename = {
     -- ["Foofile"] = "fooscript",
