@@ -21,8 +21,6 @@ return {
         neovide_padding_bottom = 0,
         neovide_padding_right = 0,
         neovide_padding_left = 0,
-        neovide_transparency = 0.8,
-        neovide_window_blurred = true,
       },
     },
   },
