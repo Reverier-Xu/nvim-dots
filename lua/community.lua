@@ -19,7 +19,6 @@ return {
   { import = "astrocommunity.pack.fish" },
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.json" },
-  { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.xml" },
   { import = "astrocommunity.pack.cmake" },
   { import = "astrocommunity.recipes.neovide" },
