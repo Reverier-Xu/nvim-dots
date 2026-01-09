@@ -18,7 +18,6 @@ return {
         "biome",
         "ts_ls",
         "tailwindcss",
-        "slint_lsp",
         -- add more arguments for adding more language servers
         --
         -- NOTE: prefer add language tools in `../community.lua` by community packs

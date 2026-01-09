@@ -22,6 +22,5 @@ return {
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.xml" },
   { import = "astrocommunity.pack.cmake" },
-  { import = "astrocommunity.recipes.neovide" },
   -- import/override with your plugins folder
 }
