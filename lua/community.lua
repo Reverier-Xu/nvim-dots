@@ -9,7 +9,6 @@ return {
   { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.git.git-blame-nvim" },
   { import = "astrocommunity.editing-support.codecompanion-nvim" },
-  { import = "astrocommunity.split-and-window.neominimap-nvim" },
   { import = "astrocommunity.terminal-integration.flatten-nvim" },
   { import = "astrocommunity.search.nvim-spectre" },
   { import = "astrocommunity.pack.python-ruff" },
@@ -17,6 +16,8 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.biome" },
   { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.pack.prettier" },
+  { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.helm" },
   { import = "astrocommunity.pack.go" },
@@ -26,5 +27,6 @@ return {
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.xml" },
   { import = "astrocommunity.pack.cmake" },
+  { import = "astrocommunity.pack.astro" },
   -- import/override with your plugins folder
 }

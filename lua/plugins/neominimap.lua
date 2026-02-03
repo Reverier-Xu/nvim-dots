@@ -6,6 +6,22 @@ return {
       vim.opt.wrap = false
       ---@type Neominimap.UserConfig
       vim.g.neominimap = {
+        layout = "split", ---@type "split" | "float"
+        split = {
+          minimap_width = 16, ---@type integer
+
+          -- Always fix the width of the split window
+          fix_width = true, ---@type boolean
+
+          direction = "right", ---@type Neominimap.Config.SplitDirection
+
+          --- Automatically close the split window when it is the last window.
+          close_if_last_window = true, ---@type boolean
+
+          --- When true, the split window will be recreated when you close it.
+          --- When false, the minimap will be disabled for the current tab when you close the minimap window.
+          persist = true, ---@type boolean
+        },
         float = {
           minimap_width = 16, ---@type integer
 
