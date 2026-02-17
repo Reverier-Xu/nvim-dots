@@ -6,7 +6,7 @@ return {
       vim.opt.wrap = false
       ---@type Neominimap.UserConfig
       vim.g.neominimap = {
-        layout = "split", ---@type "split" | "float"
+        layout = "float", ---@type "split" | "float"
         split = {
           minimap_width = 16, ---@type integer
 
