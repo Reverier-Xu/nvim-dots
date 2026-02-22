@@ -11,7 +11,6 @@ return {
   { import = "astrocommunity.ai.opencode-nvim" },
   { import = "astrocommunity.terminal-integration.flatten-nvim" },
   { import = "astrocommunity.search.nvim-spectre" },
-  { import = "astrocommunity.pack.python-ruff" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.biome" },
