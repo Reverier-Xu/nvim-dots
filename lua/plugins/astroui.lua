@@ -9,7 +9,7 @@ return {
   ---@type AstroUIOpts
   opts = {
     -- change colorscheme
-    colorscheme = "catppuccin",
+    colorscheme = "catppuccin-mocha",
     status = {
       separators = {
         none = { "", "" },

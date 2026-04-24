@@ -5,8 +5,8 @@
 ---@type LazySpec
 return {
   "AstroNvim/astrocommunity",
-  { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.git.git-blame-nvim" },
+  { import = "astrocommunity.recipes.ai" },
   { import = "astrocommunity.terminal-integration.flatten-nvim" },
   { import = "astrocommunity.search.nvim-spectre" },
   { import = "astrocommunity.pack.rust" },
